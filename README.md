@@ -1,6 +1,6 @@
 # Spotify-Tailwind
 
-## Acess:
+## Access:
 https://gefgu.github.io/Spotify-Tailwind/
 
 ## Screenshot:
